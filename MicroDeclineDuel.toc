@@ -1,0 +1,10 @@
+## Interface: 30300
+## X-Compatible-With: 40000
+## Title: MicroDeclineDuel - [|cffb1997fUltimoWoW|r]
+## Version: v1.1 beta
+## Notes: Minimalistic Addon to decline Duel requests.
+## X-Curse-Packaged-Version: r7
+## X-Curse-Project-Name: MicroDeclineDuel
+## X-Curse-Project-ID: microdeclineduel
+## X-Curse-Repository-ID: wow/microdeclineduel/mainline
+MicroDeclineDuel.lua
